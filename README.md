@@ -9,7 +9,7 @@
 - JVM 21 버전 이상
 
 ### 실행하기
-- 릴리즈 [1.0](https://github.com/k-yumin/number-baseball-gui/releases/tag/1.0)
+- 릴리즈 [1.0.1](https://github.com/k-yumin/number-baseball-gui/releases/tag/1.0.1)
 
 ### 빌드하기
 - `./gradlew build`
