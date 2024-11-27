@@ -13,7 +13,7 @@
 
 ### 빌드하기
 - `./gradlew build`
-- `java -jar build/libs/baseball-1.0-SNAPSHOT-all.jar`
+- `java -jar build/libs/baseball-1.0.1-all.jar`
 
 ## 스크린샷
 |Main|Rule|Game|
