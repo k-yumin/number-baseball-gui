@@ -1,5 +1,5 @@
 # 숫자 야구 GUI
-숫자 야구 게임을 GUI로 구현했습니다.
+숫자 야구 게임을 Swing(GUI)으로 구현했습니다.
 
 ### 사용한거
 - Look and Feel: [JFormDesigner/FlatLaf](https://github.com/JFormDesigner/FlatLaf)
