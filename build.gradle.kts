@@ -23,7 +23,7 @@ tasks.test {
 
 tasks {
     named<ShadowJar>("shadowJar") {
-        archiveBaseName.set("shadow")
+        archiveBaseName.set("baseball")
         mergeServiceFiles()
         manifest {
             attributes(mapOf("Main-Class" to "yt.yacht.MainKt"))
