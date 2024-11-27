@@ -13,11 +13,9 @@ class Computer(private val mode: Int) {
 
         // Generating a random number for the human to guess
         number = random.nextInt(1..9).toString()
-
-        while (true) {
+        while (number.length != mode) {
             val n = random.nextInt(0..9).toString()
             if (n !in number) number += n
-            if (number.length == mode) break
         }
     }
 
